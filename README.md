@@ -2,17 +2,17 @@
 
 ### Software Engineering Student | Web Developer | AI Enthusiast
 
-I am a Software Engineering student and a software engineer in training, interested in web development, artificial intelligence, and software projects.
+I am a Software Engineering student and software engineer in training, interested in web development, artificial intelligence, and building practical software projects.
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 Software Engineering student
-- 💻 Interested in Web Development and AI
+- 💻 Interested in Web Development and Artificial Intelligence
 - 🌱 Currently improving my programming and software development skills
 - 🚀 Building academic and personal projects
 - 📚 Always learning and exploring new technologies
 
-### 🛠️ Technologies & Skills
+## 🛠️ Skills & Technologies
 
 - HTML & CSS
 - JavaScript
@@ -21,15 +21,32 @@ I am a Software Engineering student and a software engineer in training, interes
 - MySQL
 - Git & GitHub
 
-### 📌 Projects
+## 📌 Featured Project
 
-- **E-Commerce Clothing Store** — HTML, CSS & JavaScript
-- **AI-Based Career Advisor** — Python & AI
-- More academic and personal projects coming soon
+### E-Commerce Clothing Store
+A simple eCommerce clothing website developed as a university project using HTML, CSS, and JavaScript.
 
-### 📫 Connect With Me
+**Features:**
+- Product listing
+- Add to cart functionality
+- Login and signup pages
+- Responsive design
+
+## 🎯 Currently Learning
+
+- Web Development
+- Software Engineering Practices
+- Artificial Intelligence
+- Git & GitHub
+
+## 📫 Connect With Me
 
 - LinkedIn: [My LinkedIn](https://pk.linkedin.com/in/ramisha-engineer-)
+
+
+⭐ Thanks for visiting my profile!
+
+
 
 ---
 
