@@ -47,7 +47,6 @@ A simple eCommerce clothing website developed as a university project using HTML
 ⭐ Thanks for visiting my profile!
 
 
-
 ---
 
-⭐ Thanks for visiting my profile!
+
